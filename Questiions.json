@@ -1,0 +1,17 @@
+{
+	"question" : "What is the result of product of 23,3",
+    "option1" : "3",
+    "option2" : "69",
+    "option3" : "24",
+    "option4" : "3",
+    "correctOption" : "69",
+	"position" : "Software Engineer"
+    "tech" : "java",
+    "category" : "2"
+}
+
+"Fresher",
+    "Software Engineer",
+    "Associate Software Consultant",
+    "Software Consultant",    
+    "Technical Lead"
