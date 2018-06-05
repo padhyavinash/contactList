@@ -1,0 +1,342 @@
+{
+	"question" : "Mark the incorrect statement from the following:",
+    "option1" : "Java is a fully object oriented language with strong support for proper software engineering techniques",
+    "option2" : "In java it is not easy to write C-like so called procedural programs",
+    "option3" : "In java language objects have to be manipulated",
+    "option4" : "In java language error processing is built into the language",
+    "correctOption" : "In java language error processing is built into the language",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+{
+	"question" : "In java, objects are passed as",
+    "option1" : "Copy of that object",
+    "option2" : "Method called call by value",
+    "option3" : "Memory address",
+    "option4" : "Constructor",
+    "correctOption" : "Memory address",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+{
+	"question" : "Which of the following is not a component of Java Integrated Development Environment (IDE)?",
+    "option1" : "Net Beans",
+    "option2" : "Borland’s Jbuilder",
+    "option3" : "Symantec’s Visual Café",
+    "option4" : "Microsoft Visual Fox Pro",
+    "correctOption" : "Symantec’s Visual Café",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+{
+	"question" : " An abstract data type typically comprises a …………… and a set of ……………… respectively.",
+    "option1" : "Data representation, classes ",
+    "option2" : "Data representation, operations",
+    "option3" : "Database, operations",
+    "option4" : "Control structure, operations",
+    "correctOption" : "Data representation, operations.",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+{
+	"question" : "In object-oriented programming, the process by which one object acquires the properties of another object is called",
+    "option1" : "Encapsulation",
+    "option2" : "Polymorphism",
+    "option3" : "Overloading",
+    "option4" : "Inheritance",
+    "correctOption" : "Inheritance ",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+{
+	"question" : "In Java, declaring a class abstract is useful",
+    "option1" : "To prevent developers from further extending the class",
+    "option2" : "When it doesn’t make sense to have objects of that class",
+    "option3" : "When default implementations of some methods are not desirable",
+    "option4" : " To force developers to extend the class not to use its capabilities",
+    "correctOption" : "When it doesn’t make sense to have objects of that class",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}{
+	"question" : "Object-oriented inheritance models the",
+    "option1" : " 'is a kind of' relationship",
+    "option2" : " 'has a' relationship",
+    "option3" : " 'want to be' relationship",
+    "option4" : "inheritance does not describe any kind of relationship between classes",
+    "correctOption" : " 'is a kind of' relationship",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+{
+	"question" : "The wrapping up of data and functions into a single unit is called?",
+    "option1" : "Encapsulation",
+    "option2" : "Abstraction",
+    "option3" : "Data Hiding",
+    "option4" : "Polymorphism",
+    "correctOption" : "Encapsulation ",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+{
+	"question" : "Polymorphism __",
+    "option1" : " Is not supported by Java",
+    "option2" : "Refers to the ability of two or more objects belonging to different classes to respond to exactly the same message in different class-specific ways",
+    "option3" : "Simplifies code maintenance",
+    "option4" : "Refers to the ability of two or more objects belonging to different classes to respond to exactly the same message in different class-specific ways and simplifies code maintenance",
+    "correctOption" : "Refers to the ability of two or more objects belonging to different classes to respond to exactly the same message in different class-specific ways and simplifies code maintenance",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+{
+	"question" : "Which of these field declarations are legal within the body of an interface?",
+    "option1" : "Private final static int answer = 42",
+    "option2" : "public static int answer=42",
+    "option3" : "final static answer =42",
+    "option4" : "int answer",
+    "correctOption" : "public static int answer=42",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Re-implementing an inherited method in a sub class to perform a different task from the parent class is called",
+    "option1" : "Binding",
+    "option2" : "Transferring",
+    "option3" : "Hiding",
+    "option4" : "extending",
+    "correctOption" : "extending",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "In a class definition, the special method provided to be called to create an instance of that class is known as a/an",
+    "option1" : "Interpreter",
+    "option2" : "Destructor",
+    "option3" : "Constructor",
+    "option4" : "Object",
+    "correctOption" : "Constructor",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Which of these packages contain all the collection classes?",
+    "option1" : "java.lang",
+    "option2" : " java.util",
+    "option3" : "java.net",
+    "option4" : "java.awt",
+    "correctOption" : "java.util",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Identify, from among the following, the incorrect descriptions related to Java :",
+    "option1" : " Java Virtual Machine translates byte code into its own system’s machine language and runs the resulting machine code",
+    "option2" : "The arithmetic operations *, /, %, + and – have the same level of precedence",
+    "option3" : "Comments do not cause any action to be performed during the program execution",
+    "option4" : "All variables must be given a type when they are declared",
+    "correctOption" : "The arithmetic operations *, /, %, + and – have the same level of precedence",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Which of these classes is not part of Java’s collection framework?",
+    "option1" : "Maps",
+    "option2" : "Array",
+    "option3" : "Stack",
+    "option4" : "Queue",
+    "correctOption" : "Queue",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "1"
+}
+---------------------------------------------Category---2-----------10 Questions
+
+{
+	"question" : "Which of these interface is not a part of Java’s collection framework?",
+    "option1" : "List",
+    "option2" : "Set",
+    "option3" : "SortedMap",
+    "option4" : "SortedList",
+    "correctOption" : "SortedList",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of these methods deletes all the elements from invoking collection?",
+    "option1" : "clear()",
+    "option2" : "reset()",
+    "option3" : "delete()",
+    "option4" : "refresh()",
+    "correctOption" : "clear()",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of these class is superclass of String and StringBuffer class?",
+    "option1" : " java.util",
+    "option2" : "java.lang",
+    "option3" : "ArrayList",
+    "option4" : "None of the mentioned",
+    "correctOption" : "java.lang",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of these method of class String is used to obtain length of String object?",
+    "option1" : "get()",
+    "option2" : "Sizeof()",
+    "option3" : "lengthof()",
+    "option4" : "length()",
+    "correctOption" : "length()",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of these method is used to find out that a thread is still running or not?",
+    "option1" : "run()",
+    "option2" : "Alive()",
+    "option3" : "isAlive()",
+    "option4" : "checkRun()",
+    "correctOption" : "isAlive()",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of these method waits for the thread to treminate?",
+    "option1" : "sleep()",
+    "option2" : "isAlive()",
+    "option3" : "join()",
+    "option4" : "stop()",
+    "correctOption" : "join()",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "2"
+}
+{
+	"question" : "Which of these method is used to explicitly set the priority of a thread?",
+    "option1" : "set()",
+    "option2" : "make()",
+    "option3" : "setPriority()",
+    "option4" : "makePriority()",
+    "correctOption" : "setPriority()",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "2"
+}
+{
+	"question" : "Which of these classes is not included in java.lang?",
+    "option1" : "Byte",
+    "option2" : "Integer",
+    "option3" : "Array",
+    "option4" : "Class",
+    "correctOption" : "Array",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "2"
+}
+{
+	"question" : "Which of these is a process of converting a simple data type into a class?",
+    "option1" : "type wrapping",
+    "option2" : "type conversion",
+    "option3" : "type casting",
+    "option4" : "none of the Mentioned",
+    "correctOption" : "type wrapping",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "2"
+}
+{
+	"question" : "Which of these method of Object class can clone an object?",
+    "option1" : "Objectcopy()",
+    "option2" : "copy()",
+    "option3" : "Object clone()",
+    "option4" : "clone()",
+    "correctOption" : "Object clone()",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "2"
+}
+-----------------------------------Category 3--------------------------------5 questions-----------------
+{
+	"question" : " Which of these keywords cannot be used for a class which has been declared final?",
+    "option1" : "abstract",
+    "option2" : "extends",
+    "option3" : "abstract and extends",
+    "option4" : "none of the mentioned",
+    "correctOption" : "abstract",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "3"
+}
+{
+	"question" : "Using which of the following, multiple inheritance in Java can be implemented?",
+    "option1" : "Interfaces",
+    "option2" : "Multithreading",
+    "option3" : "Protected methods",
+    "option4" : "Private methods",
+    "correctOption" : "Interfaces",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "3"
+}
+{
+	"question" : "Arrays in Java are implemented as?",
+    "option1" : "class",
+    "option2" : "object",
+    "option3" : "variable",
+    "option4" : "none of the mentioned",
+    "correctOption" : "object",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "3"
+}
+{
+	"question" : "Which of the following statements are incorrect?",
+    "option1" : "static methods can call other static methods only",
+    "option2" : "static methods must only access static data",
+    "option3" : "static methods can not refer to this or super in any way",
+    "option4" : "when object of class is declared, each object contains its own copy of static variables",
+    "correctOption" : "when object of class is declared, each object contains its own copy of static variables",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "3"
+}
+{
+	"question" : "Which of these methods must be made static?",
+    "option1" : "main()",
+    "option2" : "delete()",
+    "option3" : "run()",
+    "option4" : "finalize()",
+    "correctOption" : "main()",
+	"position" : "Technical Lead",
+    "tech" : "java",
+    "category" : "3"
+}

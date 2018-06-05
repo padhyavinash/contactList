@@ -1,0 +1,724 @@
+/*Category 1 questions*/
+{
+	"question" : "The difference between the local value and face value of 7 in the numeral 657903 is:",
+    "option1" : "0",
+    "option2" : "7896",
+    "option3" : "6993",
+    "option4" : "903",
+    "correctOption" : "6993",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "The largest natural number which exactly divides the product of any four consecutive natural numbers is:",
+    "option1" : "6",
+    "option2" : "12",
+    "option3" : "24",
+    "option4" : "120",
+    "correctOption" : "24",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "he least number by which 72 must be multiplied in order to produce a multiple of 112, is:",
+    "option1" : "6",
+    "option2" : "12",
+    "option3" : "14",
+    "option4" : "18",
+    "correctOption" : "14",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "A boy runs 200 metres  in 24 seconds. What is his speed ?",
+    "option1" : "20 km/hr ",
+    "option2" : "24 km/hr ",
+    "option3" : "28.5 km/hr",
+    "option4" : "30 km/hr",
+    "correctOption" : "30 km/hr",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "In a 1000 m race Usha beats Shiny by 50 m. In the same race, by what time margin Shiny beat Mercy who runs at 4 m/s ?",
+    "option1" : "100 sec",
+    "option2" : "50 sec",
+    "option3" : "25 sec",
+    "option4" : "Data not sufficient",
+    "correctOption" : "50 sec",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "If the speed of a man is 45 km per hour, then what is the distance traveled by him in 30 seconds ?",
+    "option1" : "275m",
+    "option2" : "360m",
+    "option3" : "375m",
+    "option4" : "420m",
+    "correctOption" : "375m",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "A can do a work in 14 days and working together A and B can do the same work in 10 days. In what time can B alone do the work?",
+    "option1" : "25 days",
+    "option2" : "30 days",
+    "option3" : "23 days",
+    "option4" : "35 days",
+    "correctOption" : "35 days",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "If A is thrice as fast as B and together can do a work in 21 days. In how many days A alone can do the work?",
+    "option1" : "36",
+    "option2" : "42",
+    "option3" : "28",
+    "option4" : "54",
+    "correctOption" : "28",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "3 workers transfer a tool weighing 120kg in 12 seconds. How many men are required to transfer it in 9 seconds?",
+    "option1" : "4",
+    "option2" : "5",
+    "option3" : "6",
+    "option4" : "8",
+    "correctOption" : "4",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "An article is sold at a certain price.By selling it at 2/3 of that price one loses 10%.Find the gain percent at original price.",
+    "option1" : "15%",
+    "option2" : "35%",
+    "option3" : "25%",
+    "option4" : "50%",
+    "correctOption" : "35%",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "If (a – b) is 9 more than (c + d) and (a + b) is 3 less than (c – d), then (a – c) is:",
+    "option1" : "3",
+    "option2" : "6",
+    "option3" : "2",
+    "option4" : "None of these",
+    "correctOption" : "3",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "If a * b = 2a – 3b + ab, then 5 * 7 + 7 * 5 is equal to:",
+    "option1" : "33",
+    "option2" : "36",
+    "option3" : "34",
+    "option4" : "38",
+    "correctOption" : "34",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "How many pieces of 0.85 metres can be cut from a rod 42.5 metres long?",
+    "option1" : "30",
+    "option2" : "60",
+    "option3" : "40",
+    "option4" : "50",
+    "correctOption" : "50",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "If a number is chosen at random from the set {1, 2, 3…, 100}, then the probability that the chosen number is a perfect cube is",
+    "option1" : "1/25",
+    "option2" : "1/2",
+    "option3" : "4/3",
+    "option4" : "1/10",
+    "correctOption" : "1/25",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "A bag contains 4 red balls, 5 green balls and 6 white balls. A ball is drawn at random from the box. What is the probability that the ball drawn is either red or green?",
+    "option1" : "2/5",
+    "option2" : "3/5",
+    "option3" : "1/5",
+    "option4" : "7/15",
+    "correctOption" : "3/5",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "What percent is 2 minutes 24 seconds of an hour?",
+    "option1" : "6%",
+    "option2" : "2%",
+    "option3" : "4%",
+    "option4" : "8%",
+    "correctOption" : "4%",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "The salary of all officers is increased twice successively by 20%. What is the net percentage increase in their salaries?",
+    "option1" : "20%",
+    "option2" : "40%",
+    "option3" : "21%",
+    "option4" : "44%",
+    "correctOption" : "44%",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "If each side of a square is increased by 50%, the ratio of the area of the resulting square to the area of the given square is:",
+    "option1" : "3",
+    "option2" : "69",
+    "option3" : "24",
+    "option4" : "3",
+    "correctOption" : "69",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "The interest on a certain deposit at 4.5% p.a. is Rs. 405 in one year. How much will the additional interest in one year be on the same deposit at 5% p.a.?",
+    "option1" : "Rs.50",
+    "option2" : "Rs.45",
+    "option3" : "Rs.40.5",
+    "option4" : "Rs.48.5",
+    "correctOption" : "45",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "The difference between simple interest and compound interest on Rs.1200 for one year at 10% per annum reckoned half-yearly is :",
+    "option1" : "Rs.2.50",
+    "option2" : "Rs.3",
+    "option3" : "Rs.3.75",
+    "option4" : "Rs.4",
+    "correctOption" : "3",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "At what rate of compound interest per annum will a sum of Rs.1200 become Rs.1348.32 in 2 years?",
+    "option1" : "6%",
+    "option2" : "6.5%",
+    "option3" : "7%",
+    "option4" : "7.5%",
+    "correctOption" : "6%",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "A sum of money becomes triple itself in 16 years. In how many years will it become 5 times at the same rate?",
+    "option1" : "32",
+    "option2" : "15",
+    "option3" : "27",
+    "option4" : "30",
+    "correctOption" : "32",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "If Athul rows 16 km upstream and 24 km down steam taking 4 hours each, then the speed of the stream is: ",
+    "option1" : "1kmph",
+    "option2" : "4kmph",
+    "option3" : "6kmph",
+    "option4" : "3kmph",
+    "correctOption" : "1kmph",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "A boat moves upstream at the rate of 1 km in 20 minutes and down stream 1 km in 12 minutes. The speed  of the current is :",
+    "option1" : "1 kmph",
+    "option2" : "2 kmph",
+    "option3" : "3 kmph",
+    "option4" : "2.5 kmph",
+    "correctOption" : "1 kmph",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "Find the average of first 40 natural numbers.",
+    "option1" : "20.5",
+    "option2" : "18",
+    "option3" : "19.5",
+    "option4" : "19",
+    "correctOption" : "20.5",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "Find the average of all the numbers between 6 and 34 which are divisible by 5",
+    "option1" : "18",
+    "option2" : "20",
+    "option3" : "24",
+    "option4" : "30",
+    "correctOption" : "20",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "Find the average of all even numbers upto 75.",
+    "option1" : "35",
+    "option2" : "36",
+    "option3" : "38",
+    "option4" : "34",
+    "correctOption" : "38",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "The average of 2,7,6 and x is 5 and the average of 18,1,6,x and y is 10.What is the value of y?",
+    "option1" : "5",
+    "option2" : "10",
+    "option3" : "20",
+    "option4" : "30",
+    "correctOption" : "20",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "Find the 15th term of an arithmetic progression whose first term is 2 and the common difference is 3.",
+    "option1" : "45",
+    "option2" : "38",
+    "option3" : "44",
+    "option4" : "40",
+    "correctOption" : "44",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+{
+	"question" : "Find the sum of all 2 digit numbers divisible by 3.",
+    "option1" : "2000",
+    "option2" : "1665",
+    "option3" : "1300",
+    "option4" : "1448",
+    "correctOption" : "1665",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "1"
+}
+
+/*Category 2 questions*/
+
+{
+	"question" : "A committee has been…………to…………the transformation of the city into an International finance centre.",
+    "option1" : "constituted, convert",
+    "option2" : "appointed, oversee",
+    "option3" : "converged, evaluate",
+    "option4" : "inducted, change",
+    "correctOption" : "appointed, oversee",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "FIn his speech he vowed to…………the four billion unbanked individuals across the world into the…………of financial inclusion.",
+    "option1" : "represent, sphere",
+    "option2" : "target, area",
+    "option3" : "bring, realm",
+    "option4" : "engage, achievement",
+    "correctOption" : "target, area",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Although he puts in…………of overtime and takes few holidays, he…………cannot support his family",
+    "option1" : "sufficient, however",
+    "option2" : "lot, besides",
+    "option3" : "much, thus",
+    "option4" : "plenty, still",
+    "correctOption" : "plenty, still",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "They have been…………on incentives to…………these practices are implemented nat grass root level.",
+    "option1" : "relying, ensure",
+    "option2" : "improving, secure",
+    "option3" : "advocating, confirm",
+    "option4" : "debating, necessitate",
+    "correctOption" : "relying, ensure",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Keeping in mind the…………to develop the sector the government has…………solicited foreign investment.",
+    "option1" : "importance, never",
+    "option2" : "proposal, forcibly",
+    "option3" : "objective, wanted",
+    "option4" : "need, actively",
+    "correctOption" : "need, actively",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Synonym of Luxuriant",
+    "option1" : "Beautiful",
+    "option2" : "Luxurious",
+    "option3" : "Abundant",
+    "option4" : "lovely",
+    "correctOption" : "Abundant",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Synonym of Memorable",
+    "option1" : "Memorial",
+    "option2" : "worth remembering",
+    "option3" : "mending",
+    "option4" : "striking",
+    "correctOption" : "worth remembering",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Synonym of Officious",
+    "option1" : "concerning office",
+    "option2" : "legal",
+    "option3" : "interfering",
+    "option4" : "permissible",
+    "correctOption" : "interfering",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Synonym of Opulous",
+    "option1" : "Popular",
+    "option2" : "Respectful",
+    "option3" : "Populated(thickly)",
+    "option4" : "hard working",
+    "correctOption" : "Populated(thickly)",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Synonym of Vocation",
+    "option1" : "Holiday",
+    "option2" : "Occupation",
+    "option3" : "break-up",
+    "option4" : "virtue",
+    "correctOption" : "Occupation",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Antonym of ABOMINATE",
+    "option1" : "loathe",
+    "option2" : "despise",
+    "option3" : "adore",
+    "option4" : "abhor",
+    "correctOption" : "adore",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Antonym of DISTEND",
+    "option1" : "deteriorate",
+    "option2" : "weaken",
+    "option3" : "constrict",
+    "option4" : "concentrate",
+    "correctOption" : "constrict",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Antonym of TOUT",
+    "option1" : "misrepresent",
+    "option2" : "placate",
+    "option3" : "praise",
+    "option4" : "ratification",
+    "correctOption" : "misrepresent",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Antonym of PLENITUDE",
+    "option1" : "scarcity",
+    "option2" : "magnificence",
+    "option3" : "luxury",
+    "option4" : "contentment",
+    "correctOption" : "scarcity",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Antonym of UPBRAID",
+    "option1" : "defer",
+    "option2" : "laud",
+    "option3" : "vacillate",
+    "option4" : "sever",
+    "correctOption" : "laud",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Pointing to Manju, Raju said, “The son of her only brother is the brother of my wife”. How is Manju related to Raju?",
+    "option1" : "Sister of father-in-law",
+    "option2" : "Mother’s sister",
+    "option3" : "Grandmother",
+    "option4" : "Mother-in-law",
+    "correctOption" : "Sister of father-in-law",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "How is Radha’s mother’s mother’s daughter-in-law’s daughter related to Radha?",
+    "option1" : "Sister",
+    "option2" : "Mother",
+    "option3" : "Cousin",
+    "option4" : "Aunt",
+    "correctOption" : "Cousin",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "A is the husband of B. E is the daughter of C. A is the father of C. How is B related to E?",
+    "option1" : "Mother",
+    "option2" : "Grandmother",
+    "option3" : "Aunt",
+    "option4" : "Cousin",
+    "correctOption" : "Grandmother",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Introducing a man to her husband, a woman said, “His brother’s father is the only son of my grandfather.” How is the woman related to this man?",
+    "option1" : "Mother",
+    "option2" : "Sister",
+    "option3" : "Aunt",
+    "option4" : "Daughter",
+    "correctOption" : "Sister",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+{
+	"question" : "Mr.Ramu’s mother’s father-in-law’s only son’s only daughter’s son is Chetan. How is Ramu related to Chetan?",
+    "option1" : "Uncle",
+    "option2" : "Nephew",
+    "option3" : "Niece",
+    "option4" : "Father",
+    "correctOption" : "Uncle",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "2"
+}
+
+/*Category 3 questions*/
+
+{
+	"question" : "If DELHI is coded as 73541 and CALCUTTA as 82589662, how can CALICUT be coded?",
+    "option1" : "5279431",
+    "option2" : "8251896",
+    "option3" : "5978213",
+    "option4" : "8543691",
+    "correctOption" : "8251896",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "3"
+}
+
+{
+	"question" : "In a certain code language, if the value of CONTRACT = 56 and ‘GROWTH’ = 30, then what is the value of DISTRIBUTION?",
+    "option1" : "130",
+    "option2" : "132",
+    "option3" : "140",
+    "option4" : "142",
+    "correctOption" : "132",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "3"
+}
+
+{
+	"question" : "In a certain code language if the word ‘MUSEUM’ is coded as ‘LSPAPG’, then how will the word ‘PALACE’ be coded in that language?",
+    "option1" : "OYIWXY",
+    "option2" : "OYIXYW",
+    "option3" : "IYXYWO",
+    "option4" : "YXWYOI",
+    "correctOption" : "OYIWXY",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "3"
+}
+
+{
+	"question" : "In a certain code language, if the value of 28 + 14 = 50 and 36 + 43 = 63, then what is the value of 44 + 52 =?",
+    "option1" : "54",
+    "option2" : "56",
+    "option3" : "58",
+    "option4" : "62",
+    "correctOption" : "56",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "3"
+}
+
+{
+	"question" : "A watch shows 4.30. If the minute hand points to east, in what direction will the hour hand point?",
+    "option1" : "North-West",
+    "option2" : "South-East",
+    "option3" : "North-East",
+    "option4" : "North",
+    "correctOption" : "North-East",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "3"
+}
+
+{
+	"question" : "Vishwanath was walking on the road early morning after the sunrise and his shadow was failing to his left. Which direction was he facing?",
+    "option1" : "East",
+    "option2" : "North",
+    "option3" : "West",
+    "option4" : "Either East or West",
+    "correctOption" : "North",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "3"
+}
+
+{
+	"question" : "By how many degrees does the minute hand move in the same time, in which the hour hand move by 18 degree ?",
+    "option1" : "168 degree",
+    "option2" : "216  degree",
+    "option3" : "196  degree",
+    "option4" : "276 degree",
+    "correctOption" : "216  degree",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "3"
+}
+
+{
+	"question" : "What will be the day of the week on 1st January, 2010 ?",
+    "option1" : "Friday",
+    "option2" : "Saturday",
+    "option3" : "Sunday",
+    "option4" : "Monday",
+    "correctOption" : "Friday",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "3"
+}
+
+{
+	"question" : "4, 3, 4, 9, 32, ……",
+    "option1" : "125",
+    "option2" : "135",
+    "option3" : "145",
+    "option4" : "155",
+    "correctOption" : "155",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "3"
+}
+
+{
+	"question" : "AB, DEF, HIJK, ? , STUVWX",
+    "option1" : "MNOPQ",
+    "option2" : "LMNOP",
+    "option3" : "LMNO",
+    "option4" : "QRSTU",
+    "correctOption" : "MNOPQ",
+	"position" : "Fresher",
+    "tech" : "Fresher",
+    "category" : "3"
+}

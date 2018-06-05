@@ -1,0 +1,355 @@
+{
+	"question" : "In Java, declaring a class abstract is useful",
+    "option1" : "To prevent developers from further extending the class",
+    "option2" : "When it doesn’t make sense to have objects of that class",
+    "option3" : "When default implementations of some methods are not desirable",
+    "option4" : " To force developers to extend the class not to use its capabilities",
+    "correctOption" : "When it doesn’t make sense to have objects of that class",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}{
+	"question" : "Object-oriented inheritance models the",
+    "option1" : " 'is a kind of' relationship",
+    "option2" : " 'has a' relationship",
+    "option3" : " 'want to be' relationship",
+    "option4" : "inheritance does not describe any kind of relationship between classes",
+    "correctOption" : " 'is a kind of' relationship",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+{
+	"question" : "The wrapping up of data and functions into a single unit is called?",
+    "option1" : "Encapsulation",
+    "option2" : "Abstraction",
+    "option3" : "Data Hiding",
+    "option4" : "Polymorphism",
+    "correctOption" : "Encapsulation ",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+{
+	"question" : "Polymorphism __",
+    "option1" : " Is not supported by Java",
+    "option2" : "Refers to the ability of two or more objects belonging to different classes to respond to exactly the same message in different class-specific ways",
+    "option3" : "Simplifies code maintenance",
+    "option4" : "Refers to the ability of two or more objects belonging to different classes to respond to exactly the same message in different class-specific ways and simplifies code maintenance",
+    "correctOption" : "Refers to the ability of two or more objects belonging to different classes to respond to exactly the same message in different class-specific ways and simplifies code maintenance",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+{
+	"question" : "Which of these field declarations are legal within the body of an interface?",
+    "option1" : "Private final static int answer = 42",
+    "option2" : "public static int answer=42",
+    "option3" : "final static answer =42",
+    "option4" : "int answer",
+    "correctOption" : "public static int answer=42",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Basic Java language functions are stored in which of the following java package?",
+    "option1" : " java.lang",
+    "option2" : "java.io",
+    "option3" : " java.net",
+    "option4" : "java.util",
+    "correctOption" : "java.lang",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Which of the following has a method names flush( )?",
+    "option1" : "Input stream",
+    "option2" : "Output Stream",
+    "option3" : "Reader stream",
+    "option4" : "Input reader stream",
+    "correctOption" : "Output Stream",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "What is the fundamental unit of information of writer streams?",
+    "option1" : "Characters",
+    "option2" : "Bytes",
+    "option3" : "Files",
+    "option4" : "Records",
+    "correctOption" : "Characters",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "File class is included in which package?",
+    "option1" : "java.io package",
+    "option2" : "java.lang package",
+    "option3" : "java.awt package",
+    "option4" : "java.net.package,
+    "correctOption" : "java.io package",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Synchronized resizable-array implementation of the List interface is?",
+    "option1" : "Vector",
+    "option2" : "ArrayList",
+    "option3" : "Hashtable",
+    "option4" : "HashMap",
+    "correctOption" : "Vector",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Which of the following events will cause a thread to die?",
+    "option1" : "The method sleep( ) is called",
+    "option2" : "The method wait( ) is called",
+    "option3" : "Execution of the start( ) method ends",
+    "option4" : "Execution of the run( ) method ends",
+    "correctOption" : "Execution of the run( ) method ends",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Which of the following statements are true regarding the finalize( ) method?",
+    "option1" : "The finalize ( ) method must be declared with protected accessibility",
+    "option2" : "The compiler will fail to compile the code that explicitly tries to call the finalize( ) method",
+    "option3" : "The body of the finalize ( ) method can only access other objects that are eligible for garbage collection",
+    "option4" : "The finalize ( ) method can be overloaded",
+    "correctOption" : "The finalize ( ) method can be overloaded",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Which one of these is a valid method declaration?",
+    "option1" : "void method1",
+    "option2" : "void method2()",
+    "option3" : "void method3(void)",
+    "option4" : "method4()",
+    "correctOption" : "void method2()",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Given a class named Book, which one of these is a valid constructor declaration for the class?",
+    "option1" : "Book(Book b) { }",
+    "option2" : "Book Book() { }",
+    "option3" : "private final Book() { }",
+    "option4" : "void Book() { }",
+    "correctOption" : "Book(Book b) { }",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+
+{
+	"question" : "Which statement is true about accessibility of members?",
+    "option1" : "Private members are always accessible from within the same package",
+    "option2" : "Private members can only be accessed by code from within the class of the member",
+    "option3" : "A member with default accessibility can be accessed by any subclass of the class in which it is defined",
+    "option4" : "Private members cannot be accessed at all",
+    "correctOption" : "Private members can only be accessed by code from within the class of the member",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "1"
+}
+
+--------------------------------------------------Category 2-------------10 questions--------------------
+
+{
+	"question" : "Which of the following is true about the use of modifiers?",
+    "option1" : "If no accessibility modifier (public, protected, and private) is specified for a member declaration, the member is only accessible for classes in the package of its class and subclasses of its class anywhere",
+    "option2" : "You cannot specify accessibility of local variables. They are only accessible within the block in which they are declared",
+    "option3" : "Subclasses of a class must reside in the same package as the class they extend",
+    "option4" : "Local variables can be declared static",
+    "correctOption" : "You cannot specify accessibility of local variables. They are only accessible within the block in which they are declared",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "2"
+}
+
+{
+	"question" : "Which statement is not true in java language?",
+    "option1" : "A public member of a class can be accessed in all the packages.",
+    "option2" : "A private member of a class cannot be accessed by the methods of the same class.",
+    "option3" : "A private member of a class cannot be accessed from its derived class.",
+    "option4" : "A protected member of a class can be accessed from its derived class",
+    "correctOption" : "A private member of a class cannot be accessed by the methods of the same class.",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "2"
+}
+
+{
+	"question" : "To prevent any method from overriding, we declare the method as,",
+    "option1" : "static",
+    "option2" : "const",
+    "option3" : "final",
+    "option4" : "abstract",
+    "correctOption" : "final",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "2"
+}
+
+{
+	"question" : "Which one of the following is not true?",
+    "option1" : "A class containing abstract methods is called an abstract class",
+    "option2" : "Abstract methods should be implemented in the derived class",
+    "option3" : "An abstract class cannot have non-abstract methods",
+    "option4" : "A class must be qualified as ‘abstract’ class, if it contains one abstract method",
+    "correctOption" : "An abstract class cannot have non-abstract methods",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "2"
+}
+
+{
+	"question" : "The fields in an interface are implicitly specified as,",
+    "option1" : "static only",
+    "option2" : "protected",
+    "option3" : "private",
+    "option4" : "both static and final",
+    "correctOption" : "both static and final",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of the following is not true?",
+    "option1" : "An interface can extend another interface.",
+    "option2" : "A class which is implementing an interface must implement all the methods of the interface",
+    "option3" : "An interface can implement another interface.",
+    "option4" : "An interface is a solution for multiple inheritance in java",
+    "correctOption" : "An interface can implement another interface",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "2"
+}
+{
+	"question" : "Which of the following is true?",
+    "option1" : "A finally block is executed before the catch block but after the try block",
+    "option2" : "A finally block is executed, only after the catch block is executed",
+    "option3" : "A finally block is executed whether an exception is thrown or not",
+    "option4" : "A finally block is executed, only if an exception occurs",
+    "correctOption" : "A finally block is executed whether an exception is thrown or not",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "2"
+}
+{
+	"question" : "A constructor",
+    "option1" : "Must have the same name as the class it is declared within",
+    "option2" : "Is used to create objects",
+    "option3" : "May be declared private",
+    "option4" : "all of above",
+    "correctOption" : "all of above",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "2"
+}
+{
+	"question" : "What is byte code in the context of Java?",
+    "option1" : "The type of code generated by a Java compiler",
+    "option2" : "The type of code generated by a Java Virtual Machine",
+    "option3" : "It is another name for a Java source file",
+    "option4" : "It is the code written within the instance methods of a class",
+    "correctOption" : "The type of code generated by a Java compiler",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "2"
+}
+{
+	"question" : "The java run time system automatically calls this method while garbage collection.",
+    "option1" : "finalizer()",
+    "option2" : "finalize()",
+    "option3" : "finally()",
+    "option4" : "finalized()",
+    "correctOption" : "finalize()",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "2"
+}
+
+------------------------------------Category 3------- 5 questions-----------------------------------
+{
+	"question" : "The correct order of the declarations in a Java program is,",
+    "option1" : "Package declaration, import statement, class declaration",
+    "option2" : "Import statement, package declaration, class declaration",
+    "option3" : "Import statement, class declaration, package declaration",
+    "option4" : "Class declaration, import statement, package declaration",
+    "correctOption" : "Package declaration, import statement, class declaration",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "3"
+}
+
+{
+	"question" : "An overloaded method consists of,",
+    "option1" : "The same method name with different types and number of parameters",
+    "option2" : "The same method name and same number and type of parameters with different return type",
+    "option3" : "None",
+    "option4" : "Both",
+    "correctOption" : "The same method name with different types and number of parameters",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "3"
+}
+
+{
+	"question" : "A protected member can be accessed in,",
+    "option1" : " a subclass of the same package ",
+    "option2" : "a non-subclass of the same package",
+    "option3" : "a subclass of different package",
+    "option4" : "all of above",
+    "correctOption" : "all of above",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "3"
+}
+
+{
+	"question" : "All exception types are subclasses of the built-in class",
+    "option1" : "Exception",
+    "option2" : "RuntimeException",
+    "option3" : "Error",
+    "option4" : "Throwable",
+    "correctOption" : "Throwable",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "3"
+}
+
+{
+	"question" : "When an overridden method is called from within a subclass, it will always refer to the version of that method defined by the",
+    "option1" : "Super class",
+    "option2" : "Subclass",
+    "option3" : "Compiler will choose randomly",
+    "option4" : "Interpreter will choose randomly",
+    "correctOption" : "Subclass",
+	"position" : "Associate Software Consultant",
+    "tech" : "java",
+    "category" : "3"
+}
+
+

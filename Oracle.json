@@ -1,0 +1,726 @@
+/*Category 1 questions*/
+
+{
+	"question" : "Which of the below is not a database constraint",
+    "option1" : "NULL",
+    "option2" : "PRIMARY KEY",
+    "option3" : "FOREIGN KEY",
+    "option4" : "ROWCOUNT",
+    "correctOption" : "ROWCOUNT",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "In any case, can update statement be used in place of insert statement?",
+    "option1" : "Yes, if record exists with Identity value.",
+    "option2" : "Yes, in every case",
+    "option3" : "No, it is not possible at all.",
+    "option4" : "None of the above.",
+    "correctOption" : "Yes, if record exists with Identity value.",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "What needs to be added when user want to show results by Descending Order?",
+    "option1" : "Descending order cannot be possible.",
+    "option2" : "User can add DESC with Order By clause",
+    "option3" : "User can add <>ASC with Order by Clause.",
+    "option4" : "None of the above",
+    "correctOption" : "User can add DESC with Order By clause",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "What is true about order by with Union operator?",
+    "option1" : "Order By can be issued in each result set.",
+    "option2" : "It can be issued for the overall result set.",
+    "option3" : "Both A & B.",
+    "option4" : "None of the above",
+    "correctOption" : "It can be issued for the overall result set.",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "What is the other name of INNER JOIN?",
+    "option1" : "Equi Join",
+    "option2" : "In Join",
+    "option3" : "Out Join",
+    "option4" : "All of the above",
+    "correctOption" : "Equi Join",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Which type of Inner Join restricts fetching of redundant data?",
+    "option1" : "Equi",
+    "option2" : "Natural",
+    "option3" : "Cross",
+    "option4" : "Outer",
+    "correctOption" : "Natural",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Which join is used for Joining the table to itself?",
+    "option1" : "In",
+    "option2" : "Natural",
+    "option3" : "Cross",
+    "option4" : "Self",
+    "correctOption" : "Self",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Which clause in DELETE statement leads to perform delete with certain criteria?",
+    "option1" : "Group",
+    "option2" : "Group By",
+    "option3" : "Where",
+    "option4" : "Having",
+    "correctOption" : "Where",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Which category Delete query exits?",
+    "option1" : "DDL",
+    "option2" : "DML",
+    "option3" : "TCL",
+    "option4" : "BPL",
+    "correctOption" : "DML",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Out of the below constraints which one is applicable on Delete query?",
+    "option1" : "Row level constraints",
+    "option2" : "Page level constraints",
+    "option3" : "Table Level constraints",
+    "option4" : "None of the above",
+    "correctOption" : "Row level constraints",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Which category Truncate query exits?",
+    "option1" : "DDL",
+    "option2" : "DML",
+    "option3" : "TCL",
+    "option4" : "BPL",
+    "correctOption" : "DDL",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Does truncate retain Identity?",
+    "option1" : "Never retains Identity",
+    "option2" : "Reset to the seed value",
+    "option3" : "No Change on Identity",
+    "option4" : "None of the above",
+    "correctOption" : "Reset to the seed value",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Truncate statement locks whole Table or a single Row at a time?",
+    "option1" : "Both",
+    "option2" : "Only Row",
+    "option3" : "Table",
+    "option4" : "None of the above",
+    "correctOption" : "Table",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Which key accepts multiple NULL values?",
+    "option1" : "Foreign Key",
+    "option2" : "Primary Key",
+    "option3" : "Unique Key",
+    "option4" : "ROWCOUNT",
+    "correctOption" : "Foreign Key",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Does index take space in Disk?",
+    "option1" : "It stores in memory as and when required.",
+    "option2" : "Yes, Indexes are stored on the disk.",
+    "option3" : "Indexes are never stored on the disk.",
+    "option4" : "Index takes no space.",
+    "correctOption" : "Yes, Indexes are stored on the disk.",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "What are composite indexes?",
+    "option1" : "Are those which are composed by database for its internal use.",
+    "option2" : "A composite index is combination of index on 2 or more columns.",
+    "option3" : "Composite indexes can never be created.",
+    "option4" : "None of the above",
+    "correctOption" : "A composite index is combination of index on 2 or more columns.",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Which one is not applicable while querying on a view?",
+    "option1" : "From",
+    "option2" : "SELECT",
+    "option3" : "Order By",
+    "option4" : "Where",
+    "correctOption" : "Order By",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Views are also called as:",
+    "option1" : "Complex tables",
+    "option2" : "Simple tables",
+    "option3" : "Virtual tables",
+    "option4" : "Actual Tables",
+    "correctOption" : "Virtual tables",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Which of the following is a valid statement:",
+    "option1" : "DELETE Table_Name;",
+    "option2" : "DELETE FROM Table_Name;",
+    "option3" : "Both",
+    "option4" : "None",
+    "correctOption" : "Both",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "The subquery is known as a ................. subquery because the subquery is related to the outer SQL statement.",
+    "option1" : "Relational",
+    "option2" : "Related",
+    "option3" : "Correlated",
+    "option4" : "Corelational",
+    "correctOption" : "Correlated",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "A subquery can itself include one or more subqueries. .............. subqueries can be nested in a statement.",
+    "option1" : "16",
+    "option2" : "32",
+    "option3" : "64",
+    "option4" : "Any number of",
+    "correctOption" : "Any number of",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "In case of correlated subquery the outer query is executed once. The subquery is executed .... for every row in the outer query.",
+    "option1" : "Once",
+    "option2" : "Twice",
+    "option3" : "Thrice",
+    "option4" : "Four Times",
+    "correctOption" : "Once",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "A table is in BCNF if it is in 3NF and if every determinant is a ............... key.",
+    "option1" : "dependent",
+    "option2" : "normal",
+    "option3" : "independent",
+    "option4" : "candidate",
+    "correctOption" : "candidate",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "A table is in 3NF if it is in 2NF and if it has no .....................",
+    "option1" : "functional dependencies",
+    "option2" : "transitive dependencies",
+    "option3" : "trivial functional dependency",
+    "option4" : "multivalued dependencies",
+    "correctOption" : "transitive dependencies",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Every constraint on the table is a logical consequence of the table's ...... ",
+    "option1" : "Fourth normal form",
+    "option2" : "Fifth normal form",
+    "option3" : "Third normal form",
+    "option4" : "Domain/key normal form",
+    "correctOption" : "Domain/key normal form",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "In a ........, the first row added to the indexis the first record in the table, the second row is the second record in the table and so on.",
+    "option1" : "Clustered",
+    "option2" : "Non-Clustered",
+    "option3" : "Heap",
+    "option4" : "CharIndex",
+    "correctOption" : "Heap",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "In ........... index, instead of storing all of the columns for a record together, each column is stored separately with all of the other rows in an index.",
+    "option1" : "Clustered",
+    "option2" : "Column Store",
+    "option3" : "Non-Clustered",
+    "option4" : "Row Store",
+    "correctOption" : "Column Store",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "Using GROUP BY ............ has the effect of removing duplicates from the data. ",
+    "option1" : "with aggregates",
+    "option2" : "with order by",
+    "option3" : "without order by",
+    "option4" : "without aggregates",
+    "correctOption" : "without aggregates",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "For the purposes of ............, null values are considered equal to other nulls and are grouped together into a single result row. ",
+    "option1" : "Having",
+    "option2" : "Group By",
+    "option3" : "Both of above",
+    "option4" : "None of above",
+    "correctOption" : "Group By",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+{
+	"question" : "All aggregate functions ignore NULLs except for .........",
+    "option1" : "Distinct",
+    "option2" : "Count (*)",
+    "option3" : "Average()",
+    "option4" : "None of above",
+    "correctOption" : "Count (*)",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "1"
+}
+
+/*Category 2 questions*/
+
+{
+	"question" : "Which of the following is not true about the declaration section of a PL/SQL block?",
+    "option1" : "This section starts with the DECLARE keyword",
+    "option2" : "It is a mandatory section",
+    "option3" : "It defines all variables, cursors, subprograms, and other elements to be used in the program",
+    "option4" : "None of the above",
+    "correctOption" : "It is a mandatory section",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "To get the server output result and display it into the screen, you need to write",
+    "option1" : "set serveroutput on",
+    "option2" : "set server output on",
+    "option3" : "set dbmsoutput on",
+    "option4" : "set dbms output on",
+    "correctOption" : "set serveroutput on",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of the following is not a benefit of a database trigger?",
+    "option1" : "Enforcing referential integrity",
+    "option2" : "Event logging and storing information on table access",
+    "option3" : "Allowing invalid transactions",
+    "option4" : "Generating some derived column values automatically",
+    "correctOption" : "Allowing invalid transactions",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of the following is not true about PL/SQL package specifications?",
+    "option1" : "The specification is the interface to the package.",
+    "option2" : "It declares the types, variables, constants, exceptions, cursors, and subprograms that can be referenced from outside the package.",
+    "option3" : "It contains all information about the content of the package and the code for the subprograms.",
+    "option4" : "None of the above.",
+    "correctOption" : "It contains all information about the content of the package and the code for the subprograms.",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of the following is not true about the Constructors?",
+    "option1" : "These are functions that return a new object as its value.",
+    "option2" : "Every object has a system defined constructor method.",
+    "option3" : "The name of the constructor is same as the object type.",
+    "option4" : "None of the above.",
+    "correctOption" : "None of the above.",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of the following statements is true about implicit cursors?",
+    "option1" : "Implicit cursors are used for SQL statements that are not named.",
+    "option2" : "Developers should use implicit cursors with great care.",
+    "option3" : "Implicit cursors are used in cursor for loops to handle data processing.",
+    "option4" : "Implicit cursors are no longer a feature in Oracle.",
+    "correctOption" : "Implicit cursors are used for SQL statements that are not named.",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of the following is not a feature of a cursor FOR loop?",
+    "option1" : "Record type declaration.",
+    "option2" : "Opening and parsing of SQL statements.",
+    "option3" : "Fetches records from cursor.",
+    "option4" : "Requires exit condition to be defined.",
+    "correctOption" : "Opening and parsing of SQL statements.",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "If left out, which of the following would cause an infinite loop to occur in a simple loop?",
+    "option1" : "LOOP",
+    "option2" : "END LOOP",
+    "option3" : "IF-THEN",
+    "option4" : "EXIT",
+    "correctOption" : "END LOOP",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Which line in the following statement will produce an error?",
+    "option1" : "cursor action_cursor is",
+    "option2" : "select name, rate, action",
+    "option3" : "into action_record",
+    "option4" : "from action_table",
+    "correctOption" : "into action_record",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "The command used to open a CURSOR FOR loop is",
+    "option1" : "open",
+    "option2" : "fetch",
+    "option3" : "parse",
+    "option4" : "None, cursor for loops handle cursor opening implicitly",
+    "correctOption" : "None, cursor for loops handle cursor opening implicitly",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "What happens when rows are found using a FETCH statement",
+    "option1" : "It causes the cursor to close",
+    "option2" : "It causes the cursor to open",
+    "option3" : "It loads the current row values into variables",
+    "option4" : "It creates the variables to hold the current row values",
+    "correctOption" : "It causes the cursor to open",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "For which trigger timing can you reference the NEW and OLD qualifiers?",
+    "option1" : "Statement and Row",
+    "option2" : "Statement only",
+    "option3" : "Row only",
+    "option4" : "Oracle Forms trigger",
+    "correctOption" : "Oracle Forms trigger",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Which identifier is valid?",
+    "option1" : "customer_12",
+    "option2" : "loop",
+    "option3" : "customer@orgA",
+    "option4" : "12customer",
+    "correctOption" : "customer_12",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "For which task is it best to use a character string enclosed by double quotes?",
+    "option1" : "Referring to a column in the database",
+    "option2" : "Using a reserved word to declare an identifier",
+    "option3" : "Using a hyphen to concatenate two columns",
+    "option4" : "Referring to a number variable by using a logical operator",
+    "correctOption" : "Using a reserved word to declare an identifier",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "What is the maximum number of exception handlers processed before the PL/SQL block is exited, provided an exception occurs?",
+    "option1" : "None",
+    "option2" : "All exceptions that are referenced in the block",
+    "option3" : "One",
+    "option4" : "All exceptions that apply",
+    "correctOption" : "One",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Which functions can be used with any datatype?",
+    "option1" : "SUM",
+    "option2" : "MIN",
+    "option3" : "MINUS",
+    "option4" : "AVG",
+    "correctOption" : "MIN",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Select incorrect variable declarations",
+    "option1" : "foo_number varchar2(10);",
+    "option2" : "foo_text number(10);",
+    "option3" : "foo_char char(1) := 'Y';",
+    "option4" : "foo_text varchar2(10) := 'hello world';",
+    "correctOption" : "foo_text varchar2(10) := 'hello world';",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Select invalid variable types",
+    "option1" : "CHAR",
+    "option2" : "VARCHAR1",
+    "option3" : "VARCHAR2",
+    "option4" : "NUMBER",
+    "correctOption" : "VARCHAR1",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of the following is not a grouping function",
+    "option1" : "COUNT",
+    "option2" : "SUM",
+    "option3" : "DISTINCT",
+    "option4" : "MIN",
+    "correctOption" : "DISTINCT",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+{
+	"question" : "Which of the following is not a valid Oracle PL/SQL exception.",
+    "option1" : "NO_DATA_FOUND ORA-01403",
+    "option2" : "TWO_MANY_ROWS ORA-01422",
+    "option3" : "DUP_VAL_ON_INDEX ORA-00001",
+    "option4" : "OTHERS",
+    "correctOption" : "TWO_MANY_ROWS ORA-01422",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "2"
+}
+
+/*Category 3 questions*/
+
+{
+	"question" : "Which of the following can be used as an argument for a procedure parameter?",
+    "option1" : "The name of a variable",
+    "option2" : "A literal value",
+    "option3" : "An expression",
+    "option4" : "All of the above",
+    "correctOption" : "All of the above",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "3"
+}
+
+{
+	"question" : "If you don't specify a mode for a parameter, what is the default mode?",
+    "option1" : "OUT",
+    "option2" : "IN",
+    "option3" : "COPY",
+    "option4" : "DEFAULT",
+    "correctOption" : "IN",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "3"
+}
+
+{
+	"question" : "Which kind of parameters cannot have a DEFAULT value?",
+    "option1" : "OUT",
+    "option2" : "IN",
+    "option3" : "CONSTANT",
+    "option4" : "R(ead)",
+    "correctOption" : "OUT",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "3"
+}
+
+{
+	"question" : "What are the three parameter modes for procedures?",
+    "option1" : "IN, OUT, IN OUT",
+    "option2" : "R(ead), W(rite), A(ppend)",
+    "option3" : "CONSTANT, VARIABLE, DEFAULT",
+    "option4" : "COPY, NOCOPY, REF",
+    "correctOption" : "IN, OUT, IN OUT",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "3"
+}
+
+{
+	"question" : "Which one of the following statements about formal and actual parameters is true?",
+    "option1" : "Formal and actual parameters must have the same name.",
+    "option2" : "Formal and actual parameters must have different names.",
+    "option3" : "A formal parameter is declared within the called procedure, while an actual parameter is declared in the calling environment.",
+    "option4" : "An actual parameter is declared within the called procedure.",
+    "correctOption" : "A formal parameter is declared within the called procedure, while an actual parameter is declared in the calling environment.",
+	"position" : "Software Engineer",
+    "tech" : "oracle",
+    "category" : "3"
+}
+
+{
+	"question" : "Which of the following can be used as an argument for a procedure parameter?",
+    "option1" : "The name of a variable",
+    "option2" : "A literal value",
+    "option3" : "An expression",
+    "option4" : "All of the above",
+    "correctOption" : "All of the above",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "3"
+}
+
+{
+	"question" : "Which listed attribute is an invalid attribute of an Explicit cursor.",
+    "option1" : "%NOTFOUND",
+    "option2" : "%FOUND",
+    "option3" : "%ROWCOUNT",
+    "option4" : "None of the above",
+    "correctOption" : "None of the above",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "3"
+}
+
+{
+	"question" : "DBMS_OUTPUT is a :",
+    "option1" : "FUNCTION",
+    "option2" : "PACKAGE",
+    "option3" : "PROCEDURE",
+    "option4" : "None of the above",
+    "correctOption" : "PACKAGE",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "3"
+}
+
+{
+	"question" : "WHich of the following can be used to READ/WRITE/APPEND a file in a directory",
+    "option1" : "DBMS_OUTPUT",
+    "option2" : "UTL_FILE",
+    "option3" : "SET SERVEROUTPUT ON",
+    "option4" : "ALL OF THE ABOVE",
+    "correctOption" : "UTL_FILE",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "3"
+}
+
+{
+	"question" : "Materialized View is :",
+    "option1" : "Logical",
+    "option2" : "Physical",
+    "option3" : "Virtual",
+    "option4" : "None of the above",
+    "correctOption" : "DISTINCT",
+	"position" : "Associate Software Consultant",
+    "tech" : "oracle",
+    "category" : "3"
+}
+

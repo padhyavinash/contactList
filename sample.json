@@ -1,0 +1,17 @@
+{
+	"question" : "What is the result of product of 23,3",
+    "option1" : "3",
+    "option2" : "69",
+    "option3" : "24",
+    "option4" : "3",
+    "correctOption" : "69",
+	"position" : "Software Engineer",
+    "tech" : "java",
+    "category" : "2"
+}
+
+
+    "Software Engineer",				1-3 yrs
+    "Associate Software Consultant",	3-5 yrs
+    "Software Consultant",    			5-8 yrs
+    "Technical Lead"					8+ yrs
